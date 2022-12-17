@@ -1,7 +1,6 @@
 TP1 - Packet Tracer - Logical and Physical Mode Exploration
-
 What are the subcategories for Network Devices?
-Routers, switches, hubs, wireless devices, security, WAN Emulation
+Routers, Switches, Hubs, Wireless Devices, Security, WAN Emulation
 
 What devices use a wired connection to connect to switch ALS2?
 WebServer, Access_Point, ASL1
@@ -33,7 +32,6 @@ Course 1.2 - Check Your Understanding - Network Components
  
  
 Course 1.3 - Check Your Understanding - Network Representations and Topologies
- 
 Which connection physically connects the end device to the network?
  □ Port
  ✓ NIC 
@@ -54,7 +52,6 @@ Which type of network topology lets you see the actual location of intermediary 
 
 
 Course 1.4 - Vérifiez votre compréhension - Types de réseaux communs
-
 Which network infrastructure provides access to users and end devices in a small geographical area, which is typically a network in a department in an enterprise, a home, or small business?
  □ Extranet
  □ Intranet
@@ -73,4 +70,23 @@ Which network infrastructure provides access to other networks over a large geog
  □ LAN
  ✓ WAN
 
+
 TP2 - Packet Tracer - Network Representation
+List the intermediary device categories.
+Routers, Switches, Hubs, Wireless Devices, Security, WAN Emulation
+
+Without entering into the internet cloud or intranet cloud, how many icons in the topology represent endpoint devices (only one connection leading to them)?
+15
+
+Without counting the two clouds, how many icons in the topology represent intermediary devices (multiple connections leading to them)?
+11
+
+How many end devices are not desktop computers?
+8
+
+How many different types of media connections are used in this network topology?
+4
+
+Based on your studies so far, explain the client-server model.
+
+
