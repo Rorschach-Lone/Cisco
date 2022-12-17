@@ -88,5 +88,20 @@ How many different types of media connections are used in this network topology?
 4
 
 Based on your studies so far, explain the client-server model.
+Hosts with server software installed are known as server. Hosts with software that allows him to browse trhough server are known as Client. A Client can become a server if he install a server software.
 
+List at least two functions of intermediary devices
+A intermediary devices can regenerate and retransmit connection and maintain path that exists trough the network.
+
+List at least two criteria for choosing a network media type.
+The require speed and amount of data, the distance covered by the media, cost and installation.
+
+Explain the difference between a LAN and a WAN. Give examples of each.
+LAN is for a limited area like a home or a school. Wan is for a much larger area like internet.
+
+In the Packet Tracer network, how many WANs do you see?
+2
+
+How many LANs do you see?
+3
 
