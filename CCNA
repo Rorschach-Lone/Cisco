@@ -11,3 +11,43 @@ Laptop_1
 
 Where is the device connected to Access_Point physically located?
 On the table
+
+
+Course 1.2 - Check Your Understanding - Network Components
+1. Which of the following is the name for all computers connected to a network that participate directly in network communication?
+ □ servers
+ □ intermediary devices
+ ✓ hosts
+ □ media
+ 
+2. When data is encoded as pulses of light, which media is being used to transmit the data?
+ □ wireless
+ ✓ Fiber-optic cable
+ □ copper cable
+ 
+3. Which two devices are intermediary devices? (Choose two)
+ □ hosts
+ ✓ routers
+ □ servers
+ ✓ switches
+ 
+ 
+Course 1.3 - Check Your Understanding - Network Representations and Topologies
+ 
+Which connection physically connects the end device to the network?
+ □ Port
+ ✓ NIC 
+ □ Interface
+ 
+Which connections are specialized ports on a networking device that connect to individual networks?
+ □ Port
+ □ NIC 
+ ✓ Interface
+ 
+Which type of network topology lets you see which end devices are connected to which intermediary devices and what media is being used?
+ □ Physical topology 
+ ✓ Logical topology
+ 
+Which type of network topology lets you see the actual location of intermediary devices and cable installation?
+ ✓ Physical topology
+ □ Logical topology
