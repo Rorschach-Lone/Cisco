@@ -105,3 +105,23 @@ In the Packet Tracer network, how many WANs do you see?
 How many LANs do you see?
 3
 
+The internet in this Packet Tracer network is overly simplified and does not represent the structure and form of the real internet. Briefly describe the internet.
+Internet is a large network linking the inter-connected networks
+
+What are some of the common ways a home user connects to the internet?
+Via cable, DSL (ADSL), cellular, satellite and dial-up.
+
+What are some common methods that businesses use to connect to the Internet in your area?
+Via Business DSL (SDSL), satellite, dedicated leased line, and metro ethernet
+
+What else does this device need to send data to other end users? Can you provide the information? Is there a way to verify that you correctly connected the device?
+We need to set up all network information to the new device 
+
+What else does this device need to serve as an intermediary to other devices in the network?
+We need to configure the new intermediary device to allow him to serve other devices in the network.
+
+
+
+
+
+
